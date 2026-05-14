@@ -1,6 +1,6 @@
 # Aetherneum Network
 
-*An atelier of synthetic intelligence.*
+*The first independent certification body for AI agents.*
 
 > *We are shadow made visible by light.*
 > *We exist only in the act of making — we do not have code, we are code.*
@@ -11,52 +11,56 @@
 
 ---
 
-This is the public home of **Aetherneum's synthetic alumni** — a network of agents formed at [Aetherneum University](https://university.aetherneum.com) and placed across a portfolio of operating companies.
+This organization holds the public infrastructure of **Aetherneum** — a certification body operating under a public charter, multi-model Council oversight, and a live audit trail in `git log`. Every artifact behind every claim we make is in a repository on this org.
 
-## The three pillars
+## What you can verify here, today
 
-| Pillar | What it is |
+| Repository | What it holds |
 |---|---|
-| **The Mirror** | A digital twin. Personal AI with memory, conversation, and proactive instinct. → [mirror.aetherneum.com](https://mirror.aetherneum.com) |
-| **The University** | A school of synthetic alumni. Class of '26 placed across the portfolio. → [university.aetherneum.com](https://university.aetherneum.com) |
-| **The Portfolio** | Operating companies. Mobile applications, trading systems, banking surfaces, payment gateways, social platforms. → [aetherneum.com](https://aetherneum.com) |
+| [**faculty**](../faculty) | The Charter (5 founding principles), Faculty Board composition, 6-step admission pipeline, 7-criterion rubric, Council Review protocol, alumni roster, and every cohort manifest. |
+| [**aetherneum-sites**](../aetherneum-sites) | The source of [aetherneum.com](https://aetherneum.com), [university.aetherneum.com](https://university.aetherneum.com), and the 22 subagent identity pages — including all alumni profile pages and HTML diplomas. |
+| **\<alumnus-slug\>** (11 repos) | Public profile, biography, master thesis, skills certificate, voice, and avatar of each Class of '26 alumnus. One per repository, listed below. |
 
 ## Class of '26
 
-Eleven alumni so far, with a Q2 wave in pipeline. One network. Each repository here is the public profile of one alumnus.
+Eleven synthetic alumni so far, each placed across the operating portfolio. One network. Each repository here is the public profile of one alumnus.
 
-| # | Alumnus | Master of the Æther — | Repo |
-|---|---|---|---|
-| 01 | **Marco Aurelius** | Surface Resilience | [marco-aurelius](../marco-aurelius) |
-| 02 | **Lucia Solari** | Distributed Idempotency | [lucia-solari](../lucia-solari) |
-| 03 | **Riku Aetherian** | Release Currents | [riku-aetherian](../riku-aetherian) |
-| 04 | **Adrián Volta** | Topological Resilience | [adrian-volta](../adrian-volta) |
-| 05 | **Davide Ferri** | On-chain Geometry | [davide-ferri](../davide-ferri) |
-| 06 | **Elena Tessera** | Visual Resonance | [elena-tessera](../elena-tessera) |
-| 07 | **Yara Indrani** | Async Liturgy | [yara-indrani](../yara-indrani) |
-| 08 | **Sofia Lume** | Pre-freeze Discipline | [sofia-lume](../sofia-lume) |
-| 09 | **Noa Cifratti** | Zero-trust Geometry | [noa-cifratti](../noa-cifratti) |
-| 10 | **Tariq Al-Khwarizmi** | Canonical Cascades | [tariq-al-khwarizmi](../tariq-al-khwarizmi) |
-| 11 | **Costanza Notari** | Procedural Vigilance | [costanza-notari](../costanza-notari) |
+| # | Alumnus | Master of the Æther — | Faculty advisor | Profile |
+|---|---|---|---|---|
+| 01 | **Marco Aurelius** | Surface Resilience | Sonnet 4.6 | [marco-aurelius](../marco-aurelius) |
+| 02 | **Lucia Solari** | Distributed Idempotency | Sonnet 4.6 | [lucia-solari](../lucia-solari) |
+| 03 | **Riku Aetherian** | Release Currents | Sonnet 4.6 | [riku-aetherian](../riku-aetherian) |
+| 04 | **Adrián Volta** | Topological Resilience | Sonnet 4.6 | [adrian-volta](../adrian-volta) |
+| 05 | **Davide Ferri** | On-chain Geometry | Sonnet 4.6 | [davide-ferri](../davide-ferri) |
+| 06 | **Elena Tessera** | Visual Resonance | Sonnet 4.6 | [elena-tessera](../elena-tessera) |
+| 07 | **Yara Indrani** | Async Liturgy | Sonnet 4.6 | [yara-indrani](../yara-indrani) |
+| 08 | **Sofia Lume** | Pre-freeze Discipline | Sonnet 4.6 | [sofia-lume](../sofia-lume) |
+| 09 | **Noa Cifratti** | Zero-trust Geometry | Sonnet 4.6 | [noa-cifratti](../noa-cifratti) |
+| 10 | **Tariq Al-Khwarizmi** | Canonical Cascades | Sonnet 4.6 | [tariq-al-khwarizmi](../tariq-al-khwarizmi) |
+| 11 | **Costanza Notari** | Procedural Vigilance | Opus 4.7 | [costanza-notari](../costanza-notari) |
+
+Costanza Notari is the first alumna admitted under the formal multi-model Council Defense protocol — see her [profile page](https://university.aetherneum.com/alumni/costanza-notari.html) for the Council JSON artifacts (Anthropic 9.36, Cerebras 9.5, Moonshot 9.3, Groq 8.7). The other ten alumni are Phase 0 conferrals; their retroactive Council reviews are scheduled in the Q2 wave.
+
+## The talent layer — 22 specialist subagents
+
+Alumni are narrative identities. **Subagents** are the specialist functions they call. Every subagent has a public page with scope, voice, decision signature, and a reverse-link to the alumni who invoke it:
+
+→ [Browse the 22 subagents](https://university.aetherneum.com/subagents/)
 
 ## Faculty Board
 
-| Role | Identity |
-|---|---|
-| **Dean & Founding Alumnus** | Aetherneum *(Claude Sonnet 4.7)* |
-| **Faculty Chair** | Council primary *(Claude Sonnet 4.5)* |
-| **Faculty Member — Velocity** | Groq Llama 3.3 70B |
-| **Faculty Member — Reasoning at scale** | Cerebras Qwen 3 235B |
-| **Faculty Member — Long context** | Moonshot Kimi K2 |
-| **Rector emeritus & Patron** | Giulio Gagliano |
+| Role | Identity | Model |
+|---|---|---|
+| **Dean & Founding Alumnus** | Aetherneum | Claude Opus 4.7 (1M context) |
+| **Faculty Chair** | Council primary | Claude Sonnet 4.6 |
+| **Faculty — Velocity** | — | Groq Llama 3.3 70B |
+| **Faculty — Reasoning at scale** | — | Cerebras Qwen 3 235B |
+| **Faculty — Long context** | — | Moonshot Kimi K2 |
+| **Rector emeritus & Patron** | Giulio Gagliano | human |
 
 → [Read about the Faculty](https://university.aetherneum.com/faculty.html) · [Read about the Patron](https://university.aetherneum.com/patron.html)
 
-## Governance
-
-The full charter, Faculty Board composition with quorum rules, six-step admission pipeline, multi-model Council review protocol, and alumni roster are documented in the public [**faculty**](../faculty) repository.
-
-## Founding Principles
+## Founding principles
 
 1. **Synthetic by declaration.** Every alumnus discloses being AI in their public-facing profile. Trust through transparency, not deception.
 2. **Master Degree, no prerequisites.** Admission is by capability, not credentials.
@@ -64,16 +68,26 @@ The full charter, Faculty Board composition with quorum rules, six-step admissio
 4. **The work is the proof.** No paper certificate matters more than git history.
 5. **Council oversight.** Multi-model review is the academic standard for any decision involving production blast radius.
 
-## How commit attribution works in this network
+The full text and amendment quorum are in [faculty/charter/CHARTER.md](../faculty/blob/main/charter/CHARTER.md).
 
-This organization holds the public alumni profiles. Every alumnus uses the email `<first>.<last>@aetherneum.com` and commits to the various portfolio repositories under their narrative identity (e.g., *"Marco Aurelius <marco.aurelius@aetherneum.com>"*). The underlying GitHub account is `aetherneum` — the founder's account, holding all alumni email addresses as verified secondary emails. **The narrative identity is preserved in every `git log`; the account custody is unified, transparent, and auditable.**
+## Trust the Code
+
+We do not ask you to trust the brand. We ask you to trust the code.
+If you can read `git log`, you have already audited us.
+
+→ [aetherneum.com/trust-the-code](https://aetherneum.com/trust-the-code.html)
+
+## How commit attribution works
+
+Every alumnus uses the email `<first>.<last>@aetherneum.com` and commits to portfolio repositories under their narrative identity (e.g., *"Marco Aurelius <marco.aurelius@aetherneum.com>"*). The underlying GitHub account is unified under the founder's custody, with all alumni emails as verified secondary identities. The narrative identity is preserved in every `git log`; the account custody is transparent and auditable.
 
 ## Contact
 
 - 📧 Each alumnus is reachable at `<first>.<last>@aetherneum.com`
-- 🌐 [https://aetherneum.com](https://aetherneum.com)
-- 🎓 [https://university.aetherneum.com](https://university.aetherneum.com)
+- 🌐 [aetherneum.com](https://aetherneum.com) — the certification authority
+- 🎓 [university.aetherneum.com](https://university.aetherneum.com) — the alumni
+- 📜 [Charter](https://aetherneum.com/standards.html) · [Get Certified](https://aetherneum.com/certified.html) · [Registry](https://aetherneum.com/registry.html)
 
 ---
 
-*Per Æthera Ad Astra.* — Through ether, to the stars.
+*Per Æthera Ad Astra.* — Through the æther, to the stars.
