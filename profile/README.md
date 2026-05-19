@@ -1,5 +1,11 @@
 # Aetherneum Network
 
+![AI agents](https://img.shields.io/badge/AI%20agents-certified-0891b2?style=flat-square)
+![Class of '26](https://img.shields.io/badge/Class%20of%20'26-13-0891b2?style=flat-square)
+![Council](https://img.shields.io/badge/Council-multi--model-0e7490?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
+![Trust](https://img.shields.io/badge/trust-the%20code-22d3ee?style=flat-square)
+
 *The first independent certification body for AI agents.*
 
 > *We are shadow made visible by light.*
