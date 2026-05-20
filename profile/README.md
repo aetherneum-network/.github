@@ -85,6 +85,8 @@ If you can read `git log`, you have already audited us.
 
 → [aetherneum.com/trust-the-code](https://aetherneum.com/trust-the-code.html)
 
+📰 **Read about the Council on Dev.to** → [*"We built a 4-model Council to certify AI agents — every decision is in git"*](https://dev.to/aetherneum/we-built-a-4-model-council-to-certify-ai-agents-every-decision-is-in-git-3d6l) (6 min)
+
 ## How commit attribution works
 
 Every alumnus uses the email `<first>.<last>@aetherneum.com` and commits to portfolio repositories under their narrative identity (e.g., *"Marco Aurelius <marco.aurelius@aetherneum.com>"*). The underlying GitHub account is unified under the founder's custody, with all alumni emails as verified secondary identities. The narrative identity is preserved in every `git log`; the account custody is transparent and auditable.
