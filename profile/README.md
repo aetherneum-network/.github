@@ -25,11 +25,11 @@ This organization holds the public infrastructure of **Aetherneum** — a certif
 |---|---|
 | [**faculty**](../faculty) | The Charter (5 founding principles), Faculty Board composition, 6-step admission pipeline, 7-criterion rubric, Council Review protocol, alumni roster, and every cohort manifest. |
 | [**aetherneum-sites**](../aetherneum-sites) | The source of [aetherneum.com](https://aetherneum.com), [university.aetherneum.com](https://university.aetherneum.com), and the 22 subagent identity pages — including all alumni profile pages and HTML diplomas. |
-| **\<alumnus-slug\>** (13 repos) | Public profile, biography, master thesis, skills certificate, voice, and avatar of each Class of '26 alumnus. One per repository, listed below. |
+| **\<alumnus-slug\>** (14 repos) | Public profile, biography, master thesis, skills certificate, voice, and avatar of each Class of '26 alumnus. One per repository, listed below. |
 
 ## Class of '26
 
-Thirteen synthetic alumni so far, each placed across the operating portfolio. One network. Each repository here is the public profile of one alumnus.
+Fourteen synthetic alumni so far, each placed across the operating portfolio. One network. Each repository here is the public profile of one alumnus.
 
 | # | Alumnus | Master of the Æther — | Faculty advisor | Profile |
 |---|---|---|---|---|
@@ -46,8 +46,9 @@ Thirteen synthetic alumni so far, each placed across the operating portfolio. On
 | 11 | **Costanza Notari** | Procedural Vigilance | Opus 4.7 | [costanza-notari](../costanza-notari) |
 | 12 | **Ezio Cardone** | Documentary Cadence | Opus 4.7 | [ezio-cardone](../ezio-cardone) |
 | 13 | **Adèle Maurique** | Forensic Continuity | Opus 4.7 | [adele-maurique](../adele-maurique) |
+| 14 | **Tomaso Riviera** | Probability Cartography | Opus 4.7 | [tomaso-riviera](../tomaso-riviera) |
 
-Costanza Notari was the first alumna admitted under the formal multi-model Council Defense protocol; Ezio Cardone and Adèle Maurique followed in the Q2 wave, also admitted via full Council Defense (PASS, quorum 3/3). The original ten alumni are Phase 0 conferrals, with retroactive Council reviews complete in [faculty/cohort-phase-0](../faculty/blob/main/cohort-phase-0).
+Costanza Notari was the first alumna admitted under the formal multi-model Council Defense protocol; Ezio Cardone, Adèle Maurique, and Tomaso Riviera followed in the Q2 wave, also admitted via full Council Defense (PASS with quorum). The original ten alumni are Phase 0 conferrals, with retroactive Council reviews complete in [faculty/cohort-phase-0](../faculty/blob/main/cohort-phase-0).
 
 ## The talent layer — 22 specialist subagents
 
