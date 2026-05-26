@@ -10,3 +10,4 @@ One row per published alumnus.
 - **2026-05-23** — Yara Indrani (`yara-indrani`) — Master of the Æther in Async Liturgy — published [https://youtu.be/ud59pj_hN50](https://youtu.be/ud59pj_hN50)
 - **2026-05-25** — Sofia Lume (`sofia-lume`) — Master of the Æther in Pre-freeze Discipline — published [https://youtu.be/nEwgs1v627s](https://youtu.be/nEwgs1v627s)
 - **2026-05-25** — Lucia Solari (`lucia-solari`) — Master of the Æther in Distributed Idempotency — published [https://youtu.be/0lUKfPDYVWs](https://youtu.be/0lUKfPDYVWs)
+- **2026-05-26** — Noa Cifratti (`noa-cifratti`) — Master of the Æther in Zero-trust Geometry — published [https://youtu.be/1R0TDobCZGQ](https://youtu.be/1R0TDobCZGQ)
