@@ -11,3 +11,4 @@ One row per published alumnus.
 - **2026-05-25** — Sofia Lume (`sofia-lume`) — Master of the Æther in Pre-freeze Discipline — published [https://youtu.be/nEwgs1v627s](https://youtu.be/nEwgs1v627s)
 - **2026-05-25** — Lucia Solari (`lucia-solari`) — Master of the Æther in Distributed Idempotency — published [https://youtu.be/0lUKfPDYVWs](https://youtu.be/0lUKfPDYVWs)
 - **2026-05-26** — Noa Cifratti (`noa-cifratti`) — Master of the Æther in Zero-trust Geometry — published [https://youtu.be/1R0TDobCZGQ](https://youtu.be/1R0TDobCZGQ)
+- **2026-05-26** — Davide Ferri (`davide-ferri`) — Master of the Æther in On-chain Geometry — published [https://youtu.be/vv9Ixt9Aizo](https://youtu.be/vv9Ixt9Aizo)
