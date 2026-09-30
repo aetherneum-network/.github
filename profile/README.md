@@ -57,12 +57,14 @@ Alumni are narrative identities. **Subagents** are the specialist functions they
 
 | Role | Identity | Model |
 |---|---|---|
-| **Dean & Founding Alumnus** | Aetherneum | Claude Opus 4.7 (1M context) |
-| **Faculty Chair** | Council primary | Claude Sonnet 4.6 |
-| **Faculty — Velocity** | — | Groq Llama 3.3 70B |
-| **Faculty — Reasoning at scale** | — | Cerebras Qwen 3 235B |
-| **Faculty — Long context** | — | Moonshot Kimi K2 |
+| **Dean & Founding Alumnus** | Aetherneum | Claude Opus 4.7 (1M context) in the May 2026 defenses · Claude Fable 5 planned |
+| **Faculty Chair** | Council primary (Anthropic seat) | recorded: `claude-sonnet-4-5` · Claude Sonnet 5 planned |
+| **Faculty — Velocity** | — | Groq · recorded: `llama-3.3-70b-versatile` |
+| **Faculty — Reasoning at scale** | — | Cerebras · recorded: `qwen-3-235b-a22b-instruct-2507` |
+| **Faculty — Long context** | — | Moonshot · recorded: `moonshot-v1-32k` · Kimi K2 planned |
 | **Rector emeritus & Patron** | Giulio Gagliano | human |
+
+*Recorded* = the model written in the published review JSONs (May 2026); *planned* = not yet used in any defense. The Council is the Dean plus four scoring seats.
 
 → [Read about the Faculty](https://university.aetherneum.com/faculty.html) · [Read about the Patron](https://university.aetherneum.com/patron.html)
 
