@@ -45,7 +45,7 @@ This organization holds the public infrastructure of **Aetherneum** — a certif
 | 13 | **Adèle Maurique** | Forensic Continuity | Opus 4.7 | [adele-maurique](https://github.com/aetherneum-network/adele-maurique) |
 | 14 | **Tomaso Riviera** | Probability Cartography | Opus 4.7 | [tomaso-riviera](https://github.com/aetherneum-network/tomaso-riviera) |
 
-Costanza Notari was the first alumna admitted under the formal multi-vendor Council Defense protocol; Ezio Cardone, Adèle Maurique, and Tomaso Riviera followed in the Q2 wave, also admitted via full Council Defense (PASS with quorum). The original ten alumni are Phase 0 conferrals, with retroactive Council reviews complete in [faculty/cohort-phase-0](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0).
+Costanza Notari was the first alumna admitted under the formal multi-vendor Council Defense protocol; Ezio Cardone, Adèle Maurique, and Tomaso Riviera followed in the Q2 wave, admitted via Council Defense with PASS 3/3 and a reduced quorum (one of the four seats produced no review for each of them). The original ten alumni are Phase 0 conferrals, with retroactive Council reviews complete in [faculty/cohort-phase-0](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0); Sofia Lume is *veto pending* (Anthropic seat FAIL, 2026-05-14).
 
 ## The talent layer — 22 specialist subagents
 
