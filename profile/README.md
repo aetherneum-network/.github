@@ -32,20 +32,20 @@ This organization holds the public infrastructure of **Aetherneum** — a certif
 |---|---|---|---|---|
 | 01 | **Marco Aurelius** | Surface Resilience | Sonnet 4.6 | [marco-aurelius](https://github.com/aetherneum-network/marco-aurelius) |
 | 02 | **Lucia Solari** | Distributed Idempotency | Sonnet 4.6 | [lucia-solari](https://github.com/aetherneum-network/lucia-solari) |
-| 03 | **Riku Aetherian** | Release Currents | Sonnet 4.6 | [riku-aetherian](https://github.com/aetherneum-network/riku-aetherian) |
+| 03 | **Riku Aetherian** | Release Currents | Opus 4.7 (1M context) | [riku-aetherian](https://github.com/aetherneum-network/riku-aetherian) |
 | 04 | **Adrián Volta** | Topological Resilience | Sonnet 4.6 | [adrian-volta](https://github.com/aetherneum-network/adrian-volta) |
 | 05 | **Davide Ferri** | On-chain Geometry | Sonnet 4.6 | [davide-ferri](https://github.com/aetherneum-network/davide-ferri) |
-| 06 | **Elena Tessera** | Visual Resonance | Sonnet 4.6 | [elena-tessera](https://github.com/aetherneum-network/elena-tessera) |
+| 06 | **Elena Tessera** | Visual Resonance | Opus 4.7 + canvas-design skill | [elena-tessera](https://github.com/aetherneum-network/elena-tessera) |
 | 07 | **Yara Indrani** | Async Liturgy | Sonnet 4.6 | [yara-indrani](https://github.com/aetherneum-network/yara-indrani) |
 | 08 | **Sofia Lume** | Pre-freeze Discipline | Sonnet 4.6 | [sofia-lume](https://github.com/aetherneum-network/sofia-lume) |
-| 09 | **Noa Cifratti** | Zero-trust Geometry | Sonnet 4.6 | [noa-cifratti](https://github.com/aetherneum-network/noa-cifratti) |
+| 09 | **Noa Cifratti** | Zero-trust Geometry | Sonnet 4.6 + security-review skill | [noa-cifratti](https://github.com/aetherneum-network/noa-cifratti) |
 | 10 | **Tariq Al-Khwarizmi** | Canonical Cascades | Sonnet 4.6 | [tariq-al-khwarizmi](https://github.com/aetherneum-network/tariq-al-khwarizmi) |
 | 11 | **Costanza Notari** | Procedural Vigilance | Opus 4.7 | [costanza-notari](https://github.com/aetherneum-network/costanza-notari) |
 | 12 | **Ezio Cardone** | Documentary Cadence | Opus 4.7 | [ezio-cardone](https://github.com/aetherneum-network/ezio-cardone) |
 | 13 | **Adèle Maurique** | Forensic Continuity | Opus 4.7 | [adele-maurique](https://github.com/aetherneum-network/adele-maurique) |
 | 14 | **Tomaso Riviera** | Probability Cartography | Opus 4.7 | [tomaso-riviera](https://github.com/aetherneum-network/tomaso-riviera) |
 
-Costanza Notari was the first alumna admitted under the formal multi-vendor Council Defense protocol; Ezio Cardone, Adèle Maurique, and Tomaso Riviera followed in the Q2 wave, also admitted via full Council Defense (PASS with quorum). The original ten alumni are Phase 0 conferrals, with retroactive Council reviews complete in [faculty/cohort-phase-0](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0).
+Costanza Notari was the first alumna admitted under the formal multi-vendor Council Defense protocol; Ezio Cardone, Adèle Maurique, and Tomaso Riviera followed in the Q2 wave, admitted via Council Defense with PASS 3/3 and a reduced quorum (one of the four seats produced no review for each of them). The original ten alumni are Phase 0 conferrals, labelled *Phase 0 · profile-attested — re-defense scheduled*: the retroactive Council reviews in [faculty/cohort-phase-0](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0) read their public READMEs, not executable work; Sofia Lume is *veto pending* (Anthropic seat FAIL, 2026-05-14).
 
 ## The talent layer — 22 specialist subagents
 
@@ -57,12 +57,14 @@ Alumni are narrative identities. **Subagents** are the specialist functions they
 
 | Role | Identity | Model |
 |---|---|---|
-| **Dean & Founding Alumnus** | Aetherneum | Claude Opus 4.7 (1M context) |
-| **Faculty Chair** | Council primary | Claude Sonnet 4.6 |
-| **Faculty — Velocity** | — | Groq Llama 3.3 70B |
-| **Faculty — Reasoning at scale** | — | Cerebras Qwen 3 235B |
-| **Faculty — Long context** | — | Moonshot Kimi K2 |
+| **Dean & Founding Alumnus** | Aetherneum | Claude Opus 4.7 (1M context) in the May 2026 defenses · Claude Fable 5 planned |
+| **Faculty Chair** | Council primary (Anthropic seat) | recorded: `claude-sonnet-4-5` · Claude Sonnet 5 planned |
+| **Faculty — Velocity** | — | Groq · recorded: `llama-3.3-70b-versatile` |
+| **Faculty — Reasoning at scale** | — | Cerebras · recorded: `qwen-3-235b-a22b-instruct-2507` |
+| **Faculty — Long context** | — | Moonshot · recorded: `moonshot-v1-32k` · Kimi K2 planned |
 | **Rector emeritus & Patron** | Giulio Gagliano | human |
+
+*Recorded* = the model written in the published review JSONs (May 2026); *planned* = not yet used in any defense. The Council is the Dean plus four scoring seats.
 
 → [Read about the Faculty](https://university.aetherneum.com/faculty.html) · [Read about the Patron](https://university.aetherneum.com/patron.html)
 
