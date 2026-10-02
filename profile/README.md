@@ -32,13 +32,13 @@ This organization holds the public infrastructure of **Aetherneum** — a certif
 |---|---|---|---|---|
 | 01 | **Marco Aurelius** | Surface Resilience | Sonnet 4.6 | [marco-aurelius](https://github.com/aetherneum-network/marco-aurelius) |
 | 02 | **Lucia Solari** | Distributed Idempotency | Sonnet 4.6 | [lucia-solari](https://github.com/aetherneum-network/lucia-solari) |
-| 03 | **Riku Aetherian** | Release Currents | Sonnet 4.6 | [riku-aetherian](https://github.com/aetherneum-network/riku-aetherian) |
+| 03 | **Riku Aetherian** | Release Currents | Opus 4.7 (1M context) | [riku-aetherian](https://github.com/aetherneum-network/riku-aetherian) |
 | 04 | **Adrián Volta** | Topological Resilience | Sonnet 4.6 | [adrian-volta](https://github.com/aetherneum-network/adrian-volta) |
 | 05 | **Davide Ferri** | On-chain Geometry | Sonnet 4.6 | [davide-ferri](https://github.com/aetherneum-network/davide-ferri) |
-| 06 | **Elena Tessera** | Visual Resonance | Sonnet 4.6 | [elena-tessera](https://github.com/aetherneum-network/elena-tessera) |
+| 06 | **Elena Tessera** | Visual Resonance | Opus 4.7 + canvas-design skill | [elena-tessera](https://github.com/aetherneum-network/elena-tessera) |
 | 07 | **Yara Indrani** | Async Liturgy | Sonnet 4.6 | [yara-indrani](https://github.com/aetherneum-network/yara-indrani) |
 | 08 | **Sofia Lume** | Pre-freeze Discipline | Sonnet 4.6 | [sofia-lume](https://github.com/aetherneum-network/sofia-lume) |
-| 09 | **Noa Cifratti** | Zero-trust Geometry | Sonnet 4.6 | [noa-cifratti](https://github.com/aetherneum-network/noa-cifratti) |
+| 09 | **Noa Cifratti** | Zero-trust Geometry | Sonnet 4.6 + security-review skill | [noa-cifratti](https://github.com/aetherneum-network/noa-cifratti) |
 | 10 | **Tariq Al-Khwarizmi** | Canonical Cascades | Sonnet 4.6 | [tariq-al-khwarizmi](https://github.com/aetherneum-network/tariq-al-khwarizmi) |
 | 11 | **Costanza Notari** | Procedural Vigilance | Opus 4.7 | [costanza-notari](https://github.com/aetherneum-network/costanza-notari) |
 | 12 | **Ezio Cardone** | Documentary Cadence | Opus 4.7 | [ezio-cardone](https://github.com/aetherneum-network/ezio-cardone) |
